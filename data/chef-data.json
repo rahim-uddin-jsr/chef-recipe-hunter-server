@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "picture": "https://i.ibb.co/M8NjNwY/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
+    "name": "Alice Smith",
+    "experience": 5,
+    "recipeCount": 30,
+    "likes": 500
+  },
+  {
+    "id": "2",
+    "picture": "https://i.ibb.co/vw7X99s/pexels-cottonbro-studio-4252136.jpg",
+    "name": "Bob Johnson",
+    "experience": 10,
+    "recipeCount": 75,
+    "likes": 1000
+  },
+  {
+    "id": "3",
+    "picture": "https://i.ibb.co/JqYQV95/pexels-cottonbro-studio-4253302.jpg",
+    "name": "Charlie Brown",
+    "experience": 3,
+    "recipeCount": 20,
+    "likes": 250
+  },
+  {
+    "id": "4",
+    "picture": "https://i.ibb.co/2SM4CWh/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
+    "name": "David Lee",
+    "experience": 7,
+    "recipeCount": 45,
+    "likes": 800
+  },
+  {
+    "id": "5",
+    "picture": "https://i.ibb.co/Y2GM4db/pexels-sides-imagery-3351927.jpg",
+    "name": "Emma Watson",
+    "experience": 12,
+    "recipeCount": 100,
+    "likes": 1500
+  },
+  {
+    "id": "6",
+    "picture": "https://i.ibb.co/YjB4fK8/pexels-tirachard-kumtanom-887827.jpg",
+    "name": "Frank Sinatra",
+    "experience": 20,
+    "recipeCount": 150,
+    "likes": 5000
+  }
+]
