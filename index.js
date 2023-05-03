@@ -19,6 +19,13 @@ app.get("/chefs", (req, res) => {
 app.get("/recipes", (req, res) => {
   res.send(recipes);
 });
+app.get("/recipes/:chefName", (req, res) => {
+  const chefName = req.params.chefName;
+  const filteredByChefName = recipes.filter(
+    (recipe) => recipe.strChefName == chefName
+  );
+  res.send(filteredByChefName);
+});
 
 app.listen(port, () => {
   console.log("Genius Recipe run on port=", port);
