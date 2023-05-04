@@ -1,6 +1,7 @@
 [
   {
     "id": "1",
+    "description": "He is the head chef and owner of (Restaurant name), an award-winning restaurant in the heart of Chicago. With her culinary degree from Le Cordon Bleu and 15 years of cooking experience, she has been creating delicious meals for customers since 2006.",
     "picture": "https://i.ibb.co/M8NjNwY/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
     "name": "Alice Smith",
     "experience": 5,
@@ -9,6 +10,7 @@
   },
   {
     "id": "2",
+    "description": "He is the head chef and owner of (Restaurant name), an award-winning restaurant in the heart of Chicago. With her culinary degree from Le Cordon Bleu and 15 years of cooking experience, she has been creating delicious meals for customers since 2006.",
     "picture": "https://i.ibb.co/vw7X99s/pexels-cottonbro-studio-4252136.jpg",
     "name": "Bob Johnson",
     "experience": 10,
@@ -17,6 +19,7 @@
   },
   {
     "id": "3",
+    "description": "He is the head chef and owner of (Restaurant name), an award-winning restaurant in the heart of Chicago. With her culinary degree from Le Cordon Bleu and 15 years of cooking experience, she has been creating delicious meals for customers since 2006.",
     "picture": "https://i.ibb.co/JqYQV95/pexels-cottonbro-studio-4253302.jpg",
     "name": "Charlie Brown",
     "experience": 3,
@@ -25,6 +28,7 @@
   },
   {
     "id": "4",
+    "description": "He is the head chef and owner of (Restaurant name), an award-winning restaurant in the heart of Chicago. With her culinary degree from Le Cordon Bleu and 15 years of cooking experience, she has been creating delicious meals for customers since 2006.",
     "picture": "https://i.ibb.co/2SM4CWh/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
     "name": "David Lee",
     "experience": 7,
@@ -33,6 +37,7 @@
   },
   {
     "id": "5",
+    "description": "He is the head chef and owner of (Restaurant name), an award-winning restaurant in the heart of Chicago. With her culinary degree from Le Cordon Bleu and 15 years of cooking experience, she has been creating delicious meals for customers since 2006.",
     "picture": "https://i.ibb.co/Y2GM4db/pexels-sides-imagery-3351927.jpg",
     "name": "Emma Watson",
     "experience": 12,
@@ -41,6 +46,7 @@
   },
   {
     "id": "6",
+    "description": "He is the head chef and owner of (Restaurant name), an award-winning restaurant in the heart of Chicago. With her culinary degree from Le Cordon Bleu and 15 years of cooking experience, she has been creating delicious meals for customers since 2006.",
     "picture": "https://i.ibb.co/YjB4fK8/pexels-tirachard-kumtanom-887827.jpg",
     "name": "Frank Sinatra",
     "experience": 20,
